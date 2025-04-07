@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **my life xd**
 
-- 📫 How to reach me **ranis_2@mail.ru , t.me/ranis_rr**
+- 📫 How to reach me **ranis_2@mail.ru** ,  **https://t.me/ranis_rr**
 
 - ⚡ Fun fact **I have excellent eyesight**
 
