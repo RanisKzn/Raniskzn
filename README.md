@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **my life xd**
 
-- 📫 How to reach me **ranis_2@mail.ru**
+- 📫 How to reach me **ranis_2@mail.ru , t.me/ranis_rr**
 
 - ⚡ Fun fact **I have excellent eyesight**
 
@@ -16,9 +16,6 @@
 <p align="left">
   <a href="https://instagram.com/sidthreer" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidthreer" height="30" width="40" />
-  </a>
-  <a href="https://t.me/ranis_rr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ranis_rr_" height="30" width="40" />
   </a>
 </p>
 
@@ -81,12 +78,6 @@
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Entity_Framework_logo.svg/1200px-Entity_Framework_logo.svg.png" alt="ef" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Entity_Framework_logo.svg/1200px-Entity_Framework_logo.svg.png" alt="efcore" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/apps/blazor" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
